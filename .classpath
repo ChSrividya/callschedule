@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-aop-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-beans-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-context-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-core-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-expression-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-web-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/spring-webmvc-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-1.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-1.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-1.1.3-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-adapters-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-api-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/srividya.mahadev/Desktop/Spring Jars/commons-logging-1.1.3/commons-logging-tests.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
